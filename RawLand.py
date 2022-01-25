@@ -2,13 +2,13 @@
 try:
     import numpy as np
 except:
-    print('sorry to annoy :(, but for this shitty simulation we used the Numpy python library, you gotta install it '
+    print('sorry to annoy :(, but for this simulation it is used the Numpy python library, you have to install it '
           'if you want to go on ')
 
 try:
     import pygame
 except:
-    print('sorry to annoy :(, but for this shitty simulation we used the PyGame python library, you gotta install it '
+    print('sorry to annoy :(, but for this simulation it is used the PyGame python library, you have to install it '
           'if you want to go on ')
 
 
@@ -16,7 +16,7 @@ except:
 ######################################################################################################################
 
 print('\n\n---> RAWLAND SIMULATION <---\n\n'
-      'each creature s aim is to seek and get food, as they swell up they also get faster. When they hit a threshold '
+      'each creature"s aim is to seek and get food, as they swell up they also get faster. When they hit a threshold '
       'size, they undergo mitosis and give birth to children, some will have their DNA mutated while others will '
       'be a mere copy of their parents. Species will rise if the DNA is particularly unique (qualitatively different'
       'from other individuals). In red, Predators try to bite and suck energy from the food-seeking creatures; they '
