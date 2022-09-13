@@ -8,8 +8,8 @@ Each creatue is endowed with a primitive brain, a perceptron whose output is the
 
 Below, a movie of the first generations at play.
 
-![rawland_initial](https://user-images.githubusercontent.com/70176926/190002055-f5a806f2-c4f7-4aee-a6fd-0c968414b5d2.gif)
+![rawland_later](https://user-images.githubusercontent.com/70176926/190002213-800a1561-e067-4a76-b81a-59efe5fd2e97.gif)
 
 Below, a movie of later generations; notice how fewer species are now dominating.
 
-![rawland_later](https://user-images.githubusercontent.com/70176926/190002213-800a1561-e067-4a76-b81a-59efe5fd2e97.gif)
+![rawland_initial](https://user-images.githubusercontent.com/70176926/190002055-f5a806f2-c4f7-4aee-a6fd-0c968414b5d2.gif)
